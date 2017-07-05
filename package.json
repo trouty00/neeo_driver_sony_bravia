@@ -24,7 +24,7 @@
   "dependencies": {
     "neeo-sdk": "^0.37.2",
     "sony-bravia-tv-remote": "^2.0.0"
-  }
+  },
   "engines": {
     "node": ">=6.0.0"
 }
