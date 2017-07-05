@@ -1,6 +1,6 @@
 {
   "name": "neeo_driver_sony_bravia",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "This app brings NEEO and Sony Bravia Android TV's together",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,5 @@
   },
   "engines": {
     "node": ">=6.0.0"
-}
+  }
 }
