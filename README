@@ -1,0 +1,19 @@
+﻿# neeo_driver_sony_bravia
+
+
+This app brings NEEO and Sony Bravia Android TV's together, it may work with other bravia but the main functionality is pulled from the sony-bravia-tv-remote npm package
+It requires a number of modifications to get working within your environment and the TV must be distinctly defined as per the instructions. 
+
+See here for any initial settings you wil need to make to your tv https://www.npmjs.com/package/sony-bravia-tv-remote
+I have also noticed that after a tv update you may need to make these changes again.
+
+If you have more than one tv you wish to control then this can be done with some minor modifications as per the sections which are commented out
+The NEEO Remote can be (Pre)ordered at: https://neeo.com/
+Please note that this is not an official NEEO app made by NEEO and there will be no support from NEEO concerning this App.
+
+Instructions
+Step 1
+Edit the controller.js file to amend the IP and pre-shared auth key as appropriate.
+
+
+
